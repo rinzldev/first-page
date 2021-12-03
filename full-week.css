@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  margin: 50px;
+  background-color: rgb(255, 219, 122);
+}
+
+h1 {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  color: rgb(226, 24, 64);
+  font-size: 60px;
+}
+
+#goal-one {
+  font-family: "Roboto Slab", sans-serif;
+  font-size: 25px;
+  color: rgb(235, 117, 49);
+}
+
+#goal-two {
+  font-family: "Roboto Slab", sans-serif;
+  font-size: 25px;
+  color: rgb(238, 8, 84);
+}
+
+#goal-three {
+  font-family: "Roboto Slab", sans-serif;
+  font-size: 25px;
+  color: rgb(238, 51, 51);
+}
+
+#back {
+  font-size: 45px;
+  color: rgb(241, 86, 117);
+  text-decoration: none;
+}
+
+#back:hover {
+  text-decoration: underline;
+}
